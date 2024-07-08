@@ -8,3 +8,5 @@
 - PROJECT TITLE: __The Wizard Game__
 - PURPOSE OF PROJECT: __Course Assignments__
 - AUTHORS: __Driann__
+
+## Preview Project
